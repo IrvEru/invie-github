@@ -1,3 +1,9 @@
-## ¿Como puedo replicar el problema?
+## Definicion del problema
 
-porfavor explicanos como replicar el problema paso a paso
+## Modulo en el que se encuentra el problema
+
+## Proceso en el cual se encuentra el problema
+
+## Pantalla en el cual se encuentra el problema
+
+## Image
