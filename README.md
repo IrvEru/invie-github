@@ -1,4 +1,4 @@
-# invie-github
-Pagina de guittarras
+# invie
+Las guitarras más locas
 
-Pruebas de moficicion desde el remoto
+http://leonidasesteban.github.io/invie-responsive/
